@@ -1,0 +1,2 @@
+public class InstanceVariables {
+}
