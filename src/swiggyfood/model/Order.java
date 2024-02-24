@@ -20,6 +20,9 @@ public class Order {
 
     }
 
+    public Order(double finalAmount, double tax, int i) {
+    }
+
 
     public void addItem(OrderItem item){
         orderItemList.add(item);
